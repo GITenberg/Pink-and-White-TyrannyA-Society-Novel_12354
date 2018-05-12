@@ -1,5 +1,8 @@
 _repo: Pink-and-White-TyrannyA-Society-Novel_12354
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Stowe, Harriet Beecher
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/115
     wikipedia: http://en.wikipedia.org/wiki/Harriet_Beecher_Stowe
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12354#Pink-and-White-TyrannyA-Society-Novel
 gutenberg_issued: '2004-05-01'
 gutenberg_type: Text
 identifiers:
